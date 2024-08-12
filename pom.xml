@@ -197,7 +197,7 @@
     <storage-api.version>2.7.0</storage-api.version>
     <tez.version>0.9.1</tez.version>
     <super-csv.version>2.2.0</super-csv.version>
-    <spark.version>3.3.0</spark.version>
+    <spark.version>3.3.1</spark.version>
     <scala.binary.version>2.12</scala.binary.version>
     <scala.version>2.12.15</scala.version>
     <tempus-fugit.version>1.1</tempus-fugit.version>
@@ -1540,4 +1540,5 @@
       </modules>
     </profile>
   </profiles>
+
 </project>
